@@ -10,12 +10,4 @@ input: -20*C, -5*C      (output: freezing)
 input: bellow -20*C     (output: temp-check broken)
 
 switch-case statement
-
-switch
-{ 
-    case <0: {
-        console.writeline();
-        break;
-    }
-}
-
+*** har testet: 5, 15, -5 og -19

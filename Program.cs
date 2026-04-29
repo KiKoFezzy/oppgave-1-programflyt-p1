@@ -1,4 +1,4 @@
-﻿int temp = -19; 
+﻿int temp = 15; 
 
 switch (temp)
 { 
